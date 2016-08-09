@@ -4,7 +4,7 @@ As últimas versões novas dos JDBC drivers da Oracle e do Firebird baixadas dos
   
 Estas versões não se encontram no Central Maven 2 Repository.
  
-O transformador se encontra no outro projeto https://github.com/EricJoosse/Transformador-de-JDBC-drivers-para-Maven-artefacts.
+O transformador se encontra no outro projeto https://github.com/EricJoosse/Transformador-de-JDBC-drivers-para-Maven-artifacts.
  
 Estes Maven artifacts podem ser referenciados em arquivos pom.xml da seguinte forma : 
 ```
