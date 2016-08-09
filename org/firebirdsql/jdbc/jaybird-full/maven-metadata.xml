@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.firebirdsql.jdbc</groupId>
-  <artifactId>jaybird</artifactId>
+  <artifactId>jaybird-full</artifactId>
   <versioning>
     <release>2.2.10</release>
     <versions>
       <version>2.2.10</version>
     </versions>
-    <lastUpdated>20160807194527</lastUpdated>
+    <lastUpdated>20160809162012</lastUpdated>
   </versioning>
 </metadata>
